@@ -1,86 +1,59 @@
-<h1 align="center">👋 Hi, I'm Walter Quintili</h1>
-<h3 align="center">💻 Computer Engineering Student | 💡 Tech Enthusiast</h3>
+<div align="center">
+    <h1>Walter Quintili</h1>
+    <h3>Computer Engineering Student · Builder · Problem Solver</h3>
 
----
+    <a href="https://linkedin.com/in/walterquintili">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://www.leetcode.com/walterquintili">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    </a>
+    <a href="https://discord.gg/walterquintili">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+  </div>
 
-### 🌟 About Me
+  ---
 
+  I'm a Computer Engineering student who enjoys building tools that solve real problems.
+  Currently focused on Python, AI integrations, and CLI development.
 
-  📚 <strong>I am a Computer Engineering student</strong><br>
-  with a passion for technological innovation and the development of smart solutions.<br><br>
+  - 🔨 Building [git-ai-summary](https://github.com/wquintili88/git-ai-summary) — AI-powered README & changelog generator
+  - 📚 Studying Computer Engineering
+  - 🌱 Learning: backend development, system design, AI/ML
+  - 💬 Ask me about Python, Git, or databases
 
+  ---
 
-  🧩 <strong>Always seeking challenges</strong><br>
-  that allow me to expand my knowledge and skills.<br><br>
+  ### Tech Stack
 
-  
-  🚀 <strong>I love working on projects</strong><br>
-  that drive change and optimize processes.<br><br>
+  **Languages**
 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-  🎯 <strong>My goal is to add value through technology</strong><br>
-  by applying both my creativity and analytical abilities to build robust and efficient applications.<br><br>
+  **Databases**
 
-  
-  📈 <strong>With a results-driven mindset</strong><br>
-  I am committed to continuous learning and professional growth in the field of computer science.
-</p>
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
----
+  **Tools**
 
-### 🤝 Connect with Me
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-<p align="left">
-  <a href="https://linkedin.com/in/walterquintili" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.leetcode.com/walterquintili" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40"/>
-  </a>
-  <a href="https://discord.gg/walterquintili" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/>
-  </a>
-</p>
+  ---
 
----
+  ### GitHub Stats
 
-### 🧠 Languages & Tools
-
-#### 🧑‍💻 Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</p>
-
-#### 🗄️ Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MS SQL Server" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-</p>
-
-#### 🛠️ Tools & Operating Systems
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
-#### 📱 Platforms & Devices
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-</p>
-
-#### 📊 Mathematical Tools
-<p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-</p>
-
----
-
-
+  <div align="center">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=wquintili88&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wquintili88&layout=compact&theme=github_dark&hide_border=true"/>
+  </div>
